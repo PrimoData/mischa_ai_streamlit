@@ -8,3 +8,6 @@ Quickly create [OCEAN](https://oceanprotocol.com/) Data NFTs by querying blockch
 Supported Blockchain Data Providers:
 * [Dune](https://dune.com/)
 * [Flipside](https://flipsidecrypto.xyz/)
+
+Prerequisities:
+* Need an Infrura account
