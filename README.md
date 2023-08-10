@@ -10,3 +10,4 @@ Supported Blockchain Data Providers:
 
 Prerequisities:
 * Need an Infrura account
+* As of August 9th, 2023, must use Python 3.8 for OCEAN.py to work due to dependencies.
