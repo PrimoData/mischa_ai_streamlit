@@ -2,12 +2,14 @@
 
 [![GitHub Codespaces Ready](https://img.shields.io/badge/GitHub%20Codespaces-Ready-green)](https://github.com/features/codespaces)
 
-Quickly create [OCEAN](https://oceanprotocol.com/) Data NFTs by querying blockchain data from different providers.
+Quickly create [OCEAN](https://oceanprotocol.com/) Data NFTs by querying blockchain data from different providers ([Dune](https://dune.com/) & [Flipside](https://flipsidecrypto.xyz/)).
 
-Supported Blockchain Data Providers:
-* [Dune](https://dune.com/)
-* [Flipside](https://flipsidecrypto.xyz/)
-
-Prerequisities:
-* Need an Infrura account
-* As of August 9th, 2023, must use Python 3.8 for OCEAN.py to work due to dependencies.
+### Setup
+* Python 3.8 environment
+* `pip install -r requirements.txt`
+* Create an `.env` file with the following keys:
+    * `DUNE_API_KEY`
+    * `FLIPSIDE_API_KEY`
+    * `WEB3_INFURA_PROJECT_ID`
+    * `PRIVATE_KEY`
+* Run `Create_OCEAN_Data_NFT.ipynb`
