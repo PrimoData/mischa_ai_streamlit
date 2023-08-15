@@ -5,6 +5,7 @@
 Quickly create [OCEAN](https://oceanprotocol.com/) Data NFTs by querying blockchain data from different providers ([Dune](https://dune.com/) & [Flipside](https://flipsidecrypto.xyz/)).
 
 ### Setup
+* Create a GitHub Codespaces environment
 * Python 3.8 environment
 * `pip install -r requirements.txt`
 * Create an `.env` file with the following keys:
