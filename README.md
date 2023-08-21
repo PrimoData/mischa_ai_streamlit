@@ -9,5 +9,5 @@ _Note: Code from a [Replicate blog post](https://replicate.com/blog/fine-tune-sd
 ## Setup
 * Create a GitHub Codespaces workspace.
 * `pip install -r requirements.txt`
-* Run `Create_Replicate_Model.ipynb` to create model.
-* Run `streamlit app.py` to run app.py.
+* Run `Create Fine Tune Model.ipynb` to create model.
+* Run `streamlit run streamlit_app.py` to run app.py.
