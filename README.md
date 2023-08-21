@@ -1,4 +1,4 @@
-# Mischa AI
+# Mischa Cat AI
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-%23121011.svg?stylee&logo=github&logoColor=white)
 
 Create a fine tuned [Stable Diffusion SDXL 1.0](https://stability.ai/stablediffusion) model on [Replicate](https://replicate.com/) and a simple [Streamlit](https://streamlit.io/) app to use it.
